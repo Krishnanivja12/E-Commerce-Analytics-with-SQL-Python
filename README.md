@@ -1,1 +1,0 @@
-# SQL-Python-Ecommerce-Project
