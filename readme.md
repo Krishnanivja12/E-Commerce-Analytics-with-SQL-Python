@@ -1,5 +1,4 @@
 # E-Commerce Analytics with SQL & Python
-
 This project analyzes sales and customer data for an e-commerce business using SQL queries and Python for insights and visualization.
 
 ## 📌 Features
